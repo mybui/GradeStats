@@ -1,4 +1,4 @@
-Grading Statistics
+# Grading Statistics
 ---
 Sample output
 Enter point totals, -1 stops:
