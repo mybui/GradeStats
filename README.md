@@ -1,6 +1,6 @@
 Grading Statistics
 ---
-- Sample output
+Sample output
 Enter point totals, -1 stops:
 - 102
 - -2
@@ -15,7 +15,7 @@ Enter point totals, -1 stops:
 - Pass percentage: 50.0
 - Grade distribution:
 - 5: *
-4- :
+- 4:
 - 3: *
 - 2:
 - 1:
